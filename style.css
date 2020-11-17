@@ -1,0 +1,65 @@
+@import url('https://source.unsplash.com/random')
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@300;700&family=Roboto:wght@500&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.0.10/css/all.css')
+
+h1 {
+  font-weight: bold;
+  font-size: 35px;
+  color:  blue;
+}
+
+
+.container {
+  width:  700px;
+  margin: 50px auto;
+ }
+
+.banner {
+  background-image: url('https://source.unsplash.com/random/1000x500');
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+
+.link {
+  background-color: blue;
+  color: yellow;
+  padding: 8px 24px;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1)
+}
+
+.link:hover {
+  background-color: #1b6ca8;
+  color: white;
+}
+
+body {
+  background-color: rgb(240, 240, 240);
+ }
+
+#Berlin {
+  width: 1800px;
+}
+
+div {
+  display: block;
+  padding: 20px;
+}
+
+.general {
+  background-color: white;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: light;
+  font-size: 15px;
+  color: #40bad5;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover: blue;
